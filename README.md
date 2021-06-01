@@ -8,7 +8,8 @@ git clone https://github.com/racterub/telegram-message-forwarder
 cd telegram-message-forwarder
 pipenv install
 ```
-2. Change the settings
+2. Change `config.py`
+
 All settings were stored in `config.example.py`.
 After modifying it, the filename of `config.example.py` should be changed to `config.py`
 ```
